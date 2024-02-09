@@ -62,7 +62,6 @@ sections:
       title: Contact
       subtitle:
       address:
-      Adenauerring 12, 76131 Karlsruhe, Germany
         street: Adenauerring 12
         city: Karlsruhe
         region: Baden-Württemberg
