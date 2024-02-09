@@ -65,5 +65,5 @@ social:
 highlight_name: true
 ---
 
-TODO
+Paul Mattes is since July 2023 a PhD Researcher at the Intuitive Robots Lab headed by [TT.-Prof. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/). His main research interest include Interpretable Scene Representation for Human and Robot alike. This work tries to develop data structures for scene representation, which can be interpreted by humans and still work as input for different robotic tasks.
 {style="text-align: justify;"}
