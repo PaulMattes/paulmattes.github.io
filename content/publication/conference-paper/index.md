@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'sir.pdf'
+url_pdf: ''
 url_code: 'https://github.com/intuitive-robots/SIR_Model'
 url_dataset: ''
 url_poster: ''
@@ -61,7 +61,7 @@ image:
 ## Read the Paper
 
 <div class="columns is-centered">
-    <object data="SIR_CVPR_2026.pdf" type="application/pdf" width="100%" height="800px">
-        <p>Your browser doesn't support embedded PDFs. <a href="SIR_CVPR_2026.pdf">Click here to download the paper.</a></p>
+    <object data="sir.pdf" type="application/pdf" width="100%" height="800px">
+        <p>Your browser doesn't support embedded PDFs. <a href="sir.pdf">Click here to download the paper.</a></p>
     </object>
 </div>

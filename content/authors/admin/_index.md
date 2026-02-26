@@ -56,7 +56,7 @@ social:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/nutrilizePaul
+    link: https://github.com/PaulMattes
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/paul-mattes/
