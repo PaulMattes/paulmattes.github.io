@@ -14,7 +14,7 @@ authors:
   - Moritz Haberland
   - Rudolf Lioutikov
 
-date: '2013-07-01T00:00:00Z'
+date: '2026-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'sir.pdf'
 url_code: 'https://github.com/intuitive-robots/SIR_Model'
 url_dataset: ''
 url_poster: ''
@@ -56,19 +56,4 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
