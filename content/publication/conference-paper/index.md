@@ -57,3 +57,11 @@ image:
   focal_point: ''
   preview_only: false
 ---
+
+## Read the Paper
+
+<div class="columns is-centered">
+    <object data="SIR_CVPR_2026.pdf" type="application/pdf" width="100%" height="800px">
+        <p>Your browser doesn't support embedded PDFs. <a href="SIR_CVPR_2026.pdf">Click here to download the paper.</a></p>
+    </object>
+</div>
